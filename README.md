@@ -1,46 +1,103 @@
-# Hi 👋, I'm Kresna Ananta 
-## AI and Website Enthusiast | Building Things
+<div align="center">
 
-I build **modern, fast and scalable web applications**, focusing on clean code, great user experience and real business needs.
+# Hi there, I'm Kresna 👋
 
-<!-- Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akresnanta)
+Computer Engineering Student at **Institut Teknologi Sepuluh Nopember (ITS)**  
+**Software Developer**
+
+Building scalable web applications, AI-powered solutions, and IoT systems.
+
+<p align="center">
+  <a href="https://kresnananta.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=web&logoColor=white">
+  </a>
+  
+  <a href="https://www.linkedin.com/in/akresnanta/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  
+  <a href="mailto:akresnaananta@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+
+</div>
+
+---
+
+## Current Focus
+
+- Building production-ready web applications
+- Exploring Artificial Intelligence & Computer Vision
+- Developing IoT and Embedded Systems
+- Learning scalable software architecture
+- Open to collaboration on impactful software projects
+
+---
+
+## Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,py,js,ts" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase" />
+</p>
+
+### Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,figma,arduino,vscode" />
+</p>
+
+---
+
+# GitHub Metrics
+
+<!-- Main Metrics -->
+<p align="center">
+<img src="https://github.com/Kresnananta/Kresnananta/blob/main/github-metrics.svg" width="100%" />
+</p>
+
+---
+
+# GitHub Stats
+
+<p align="center">
+
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api?username=Kresnananta&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true"/>
+
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kresnananta&layout=compact&hide_border=true"/>
+
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in collaborating on software engineering, AI, IoT, and open-source projects.
+
+Thanks for visiting my profile!  
+  
 ![Profile views](https://komarev.com/ghpvc/?username=Kresnananta&label=Profile%20views&color=0e75b6&style=flat)
-
----
-
-<!-- ### 👨‍💻 About me
-
-- 💼 Software Developer with experience building **real-world web applications** for clients and companies.
-- 🧠 Strong background in **Frontend and Backend development**, understanding products end-to-end.
-- 🚀 Focused on performance, scalability and maintainable architectures.
-- 🤝 Open to **full-time opportunities** and **freelance projects**. -->
-
-📂 Check my portfolio:  
-👉 **[Click](https://kresnananta.vercel.app/)**
-
----
-
-### 🛠️ Tech Stack
-
-- **Frontend:** Next.js, React, Astro, Tailwind CSS, HTML, CSS  
-- **Backend:** Node.js, NestJS, Express  
-- **Databases:** MongoDB, PostgreSQL, SQL Server, Supabase  
-- **Languages:** TypeScript, JavaScript  
-- **Tools:** Git, GitHub
-
----
-
-### 📊 GitHub Stats
-
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=179374184" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=179374184&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @Kresnananta" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=179374184&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
-</a>
-
----
-
-📬 **Let’s build something together**  
-If you’re looking for a developer who turns ideas into production-ready products — feel free to reach out.
