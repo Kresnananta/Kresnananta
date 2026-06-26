@@ -1,11 +1,12 @@
 <div align="center">
 
-# Hi there, I'm Kresna 👋
+<h1 align="center">
+  Hi there, I'm Kresna 👋
+</h1>
 
-Computer Engineering Student at **Institut Teknologi Sepuluh Nopember (ITS)**  
-**Software Developer**
-
-Building scalable web applications, AI-powered solutions, and IoT systems.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=200&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student+%40+ITS;Web+Developer;Building+AI%2C+Web+%26+IoT+Solutions;Cybersecurity+Enthusiast" alt="Typing SVG"     />
+</p>
 
 <p align="center">
   <a href="https://kresnananta.vercel.app/" target="_blank">
@@ -37,39 +38,10 @@ Building scalable web applications, AI-powered solutions, and IoT systems.
 
 ## Tech Stack
 
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,py,js,ts" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,py,js,ts,react,nextjs,nodejs,dotnet,mysql,postgres,mongodb,docker,git,linux,figma&perline=8"/>
 </p>
 
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet" />
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase" />
-</p>
-
-### Tools & Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,figma,arduino,vscode" />
-</p>
-
----
-
-# GitHub Metrics
 
 <!-- Main Metrics -->
 <!-- <p align="center">
