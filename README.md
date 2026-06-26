@@ -72,17 +72,21 @@ Building scalable web applications, AI-powered solutions, and IoT systems.
 # GitHub Metrics
 
 <!-- Main Metrics -->
-<p align="center">
+<!-- <p align="center">
 <img src="https://github.com/Kresnananta/Kresnananta/blob/main/github-metrics.svg" width="100%" />
-</p>
+</p> -->
 
 <p align="center">
-  <img src="./metrics.plugin.languages.svg" width="100%">
+  <img
+    src="https://raw.githubusercontent.com/Kresnananta/Kresnananta/main/metrics.plugin.languages.svg"
+    width="65%"
+    alt="Languages Metrics"
+  />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="./metrics.plugin.habits.svg" width="100%">
-</p>
+</p> -->
 
 ---
 
