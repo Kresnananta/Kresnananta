@@ -76,20 +76,12 @@ Building scalable web applications, AI-powered solutions, and IoT systems.
 <img src="https://github.com/Kresnananta/Kresnananta/blob/main/github-metrics.svg" width="100%" />
 </p>
 
----
-
-# GitHub Stats
+<p align="center">
+  <img src="./metrics.plugin.languages.svg" width="100%">
+</p>
 
 <p align="center">
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=Kresnananta&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true"/>
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kresnananta&layout=compact&hide_border=true"/>
-
+  <img src="./metrics.plugin.habits.svg" width="100%">
 </p>
 
 ---
