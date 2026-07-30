@@ -39,7 +39,7 @@
 ## Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,py,js,ts,react,nextjs,nodejs,dotnet,mysql,postgres,mongodb,docker,git,linux,figma&perline=8"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,py,js,ts,react,nextjs,svelte,nodejs,flutter,dotnet,mysql,postgres,mongodb,supabase,firebase,docker,git,linux,arduino,raspberrypi,figma,latex&perline=8"/>
 </p>
 
 
